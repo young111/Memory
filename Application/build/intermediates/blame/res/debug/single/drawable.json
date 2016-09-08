@@ -4,20 +4,16 @@
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/venus.jpg",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/venus.jpg"
-    },
-    {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/co.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/co.jpg"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/uranus.jpg",
@@ -28,56 +24,32 @@
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/neptune.jpg"
     },
     {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/myclass1.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/myclass1.jpg"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/jupiter.jpg",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/jupiter.jpg"
     },
     {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/sing.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/sing.jpg"
+    },
+    {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/mercury.jpg",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/mercury.jpg"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
@@ -86,14 +58,6 @@
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
@@ -112,14 +76,6 @@
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/earth.jpg",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/earth.jpg"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -128,24 +84,108 @@
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/saturn.jpg",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/saturn.jpg"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/mars.jpg",
         "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/mars.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/jam.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/jam.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/venus.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/venus.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/mom2.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/mom2.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/mom1.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/mom1.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/gwan.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/gwan.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/jam2.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/jam2.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/class2.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/class2.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/earth.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/earth.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/saturn.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/saturn.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/love.jpg",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/src/main/res/drawable/love.jpg"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/Users/appcreator29/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
